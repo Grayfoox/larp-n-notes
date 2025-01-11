@@ -1,3 +1,8 @@
+---
+title: ekonomika
+layout: page
+---
+
 # Ekonomika na larpech (a v hrách)
 
 

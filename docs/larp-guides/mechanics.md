@@ -1,3 +1,8 @@
+---
+title: mechaniky
+layout: page
+---
+
 # mechaniky
 
 ## videomateriál
