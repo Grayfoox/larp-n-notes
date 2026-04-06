@@ -14,23 +14,17 @@ layout: page
 - [Balancing thé Economy ](https://www.youtube.com/watch?v=aX8f1lE09uY)
 
 
-## proč si to sepisuju
+## intro
 
 
 Ekonomika jako taková je mechanika soustředěná na "obchod/výměnu". O tom jak proudí zdroje mezi hráči a hrou samotnou
-Ekonomika se nemusí týkat pouze financí, už jenom hráč který zná slova jako "návratnost", "škrcení informací" a "časo
-vá náročost" může mít negativní následky na hru.
+Ekonomika se nemusí týkat pouze financí, "návratnost", "škrcení informací" a "časová náročost" může mít negativní následky na hru.
 
-Schválně zde minimálně zmiňuji RP, protože dle mého RP vznikne samo na solidním základu kde hráči mají prostor pro RP. Co jsem pozoroval, pokud dokážeme hráče dostat myšlenkově na "stejnou vlnu" a odstranit nechtěný šum a nadbytečné otázky, hráči najdou způsob jak obohatit obchody samotné.
+Pokud uvažujeme rámcově že hráči dostanou _"zlaté"_ za které se koupí _"nějaké vybavení a potky"_ které _"hráčí vyrobí sami"_. Což se kolikrát rozpadne během několika hodin. 
 
+Organizátor může modelovat chování hráčů na základě potřeb hráče a (jemu) dostupných nástrojů.
 
-Jeden z mých malých bolístek larpů je přístup k tomu že se hráčům dají _"nějaké peníze"_ za které se koupí _"nějaké vybavení a potky"_ které _"hráčí vyrobí sami"_. Což se kolikrát rozpadne během několika hodin. 
-
-Organizátor by se měl snažit zpříjemnit hru a směřovat hráče k tomu mít zábavu. 
-
-
-
-Už jenom modelový příklad: 
+Modelový příklad: 
 
 Hráč který si koupil lektvar pro dva životy navíc a vylepšil zbraň musel:
 
@@ -77,6 +71,8 @@ má mnoho často frustrujících kroků které mohou nastat snadno.
 - Zlaťáky, potky, crafting materials ale i zbraně pokud se dají získat (a utratit). 
 
 - Technicky, expy, info, čas je "měna". (která se získává/mizí).
+
+- # možné otázky
 
 - Umět si definovat s čím budou hráči pracovat dává nadhled nad tím jak se s nimi pracuje, jejich mechaniky a "cíle".
 
@@ -128,15 +124,13 @@ problémy spojené s tímto mohou být:
 
 
 
-## co s tím
+## možný základ řešení
 
-Dobrý začátek je sepsat si všechny materiály a měny které jsou ve hře. Poté odkud se berou (Vstupy) a co s nimi lze dělat(Výstupy).
+Můžeme začít excel tabulka se všechny materiály které jsou ve hře. Poté odkud se berou (Vstupy) a co s nimi lze dělat(Výstupy).
+
 Co hráči používají na obchod? Co hráči využívají? co je questové?
 
-
-Optimálně chcete udělat dostatečně komplexní hru na to, aby nebylo jasné co je "optimální strategie", jinak se najde někdo, kdo se sebere a bude se snažit získat co nejvíce do bodu kdy bude moct (a neotráví sobě a jiným hru).
-
-
+Jak se materály přesouvají a mění?
 
 Komplexita nemusí vycházet pouze z "máme spostu složitých mechanik které mění věci". Kolikrát stačí:
 
@@ -154,25 +148,23 @@ Komplexita nemusí vycházet pouze z "máme spostu složitých mechanik které m
 TODO: improve "nokoho nebaví rozbijející se zbraně, chytání nemocí které musí léčit aniž by veděl jak apod."
 
 
-
-
 ### Larp oproti:
 
 - reálné ekonomice - necheme 20 let grindit "v dole" pro ekvivalent garsonky 
 
-- časové restrice larpu samotného
+  - časové restrice larpu samotného
 
 - videogame singleplayer ekonomice - máme vícero lidí s různými motivacemi
 
-- zneužívání ekonomiky bude mít negativní dopad na hru (dojdou peníze, suroviny...)
+  - zneužívání ekonomiky bude mít negativní dopad na hru (dojdou peníze, suroviny...)
 
-- výroba a logistika zabírá čas
+  - výroba a logistika zabírá čas
 
 - MMORPGs 
 
-- limitace reálného světa (čas, materiální náročnost...)
+  - limitace reálného světa (čas, materiální náročnost...)
 
-- hráč mmo se může soustředit na konkrétní cíl/produkt na širším časovém horizontu 
+  - hráč mmo se může soustředit na konkrétní cíl/produkt na širším časovém horizontu 
 
 Jak klíčová je ekonomika pro tvojí akci? Je potřeba?
 
